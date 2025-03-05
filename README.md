@@ -4,7 +4,7 @@
 With 4 years of experience in Roblox game development, I specialize in creating **immersive, high performance systems, scripts** that are optimized, organized, and efficient. Whether you're a solo developer, a team, or a company,
 I make your game better by **improving code structure, adding unique features, and optimizing performance**.
 
-![Hello](https://github.com/CordeliusVox/CordeliusVox/blob/main/Thing.png)
+![Hello](https://github.com/CordeliusVox/CordeliusVox/blob/main/Images/Main%20Banner.png)
 
 ---
 
