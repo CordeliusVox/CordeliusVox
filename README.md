@@ -41,8 +41,8 @@ Here are some of the projects I’ve worked on:
 
 Feel free to reach out to discuss a potential collaboration, feature requests, or just to chat about game development!
 
-- Email: [cordeliusvox@gmail.com](mailto:cordeliusvox@gmail.com)
-- Discord User: CordeliusVox
+- **Email:** [cordeliusvox@gmail.com](mailto:cordeliusvox@gmail.com)
+- **Discord User:** CordeliusVox
 
 ---
 
