@@ -33,34 +33,7 @@ I take pride in delivering **organized, readable, and maintainable scripts / sys
 
 Here are some of the projects I’ve worked on:
 
-##  **Aurora borealis system.**
 - [Aurora borealis system](https://github.com/cordeliusvox/Aurora-Borealis-System)
-
-## ⚔️ **Medieval Kingdoms**
-- **Description**: A role-playing game where players can build kingdoms, fight enemies, and form alliances.
-- **My Role**: I implemented combat mechanics, custom NPC behavior, and optimized the game’s code for better performance.
-- **Technologies Used**: Lua, Roblox Studio, Pathfinding, Animation Editor.
-
----
-
-## 📈 Game Optimization
-
-Performance is key to a smooth experience. Here’s a list of optimization techniques I regularly apply to ensure games run fast and efficiently:
-
-- **Memory Management**: Optimizing resource loading and unloading to reduce lag.
-- **Efficient Algorithms**: Using best practices for loops, events, and data storage.
-- **Reducing Latency**: Improving network communication to minimize lag for multiplayer games.
-- **Load Balancing**: Efficiently distributing the server load across multiple instances.
-
----
-
-## 💬 Testimonials
-
-_"Working with [Your Name] was a game-changer! They restructured our entire script system and made our game not only run faster but also easier to update."_  
-— **Game Developer, XYZ Studio**
-
-_"The custom features they added to our game increased player engagement significantly. Highly recommend!"_  
-— **CEO, ABC Games**
 
 ---
 
@@ -70,21 +43,6 @@ Feel free to reach out to discuss a potential collaboration, feature requests, o
 
 - Email: [cordeliusvox@gmail.com](mailto:cordeliusvox@gmail.com)
 - Discord: [CordeliusVox](https://discord.com/cordeliusvox)
-
----
-
-## 📂 My Repositories
-
-Check out my public repositories below for more of my work!
-
-- [Roblox-Scripts](https://github.com/yourusername/Roblox-Scripts)
-- [Roblox-Utilities](https://github.com/yourusername/Roblox-Utilities)
-
----
-
-## 📑 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
